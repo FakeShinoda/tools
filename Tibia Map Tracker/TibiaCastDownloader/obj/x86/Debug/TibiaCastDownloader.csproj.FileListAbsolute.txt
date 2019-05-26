@@ -1,0 +1,5 @@
+C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\bin\Debug\tibiacast-downloader.exe
+C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\bin\Debug\tibiacast-downloader.pdb
+C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\obj\x86\Debug\TibiaCastDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.exe
+C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\obj\x86\Debug\tibiacast-downloader.pdb

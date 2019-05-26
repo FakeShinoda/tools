@@ -1,0 +1,12 @@
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.csprojResolveAssemblyReference.cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.baml
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\Util\ClientChooserWPF.g.cs
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy_MarkupCompile.cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.g.resources
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.Util.ClientChooser.resources
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.csproj.GenerateResource.Cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpTibiaProxy\obj\Debug\SharpTibiaProxy.pdb

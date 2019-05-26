@@ -1,0 +1,86 @@
+[Warning] Item 40001 in item.xml not found in items.otb
+[Warning] Item 40002 in item.xml not found in items.otb
+[Warning] Item 40003 in item.xml not found in items.otb
+[Warning] Item 40004 in item.xml not found in items.otb
+[Warning] Item 40005 in item.xml not found in items.otb
+[Warning] Item 40006 in item.xml not found in items.otb
+[Warning] Item 40007 in item.xml not found in items.otb
+[Warning] Item 40010 in item.xml not found in items.otb
+[Warning] Item 40011 in item.xml not found in items.otb
+[Warning] Item 40013 in item.xml not found in items.otb
+[Warning] Item 40014 in item.xml not found in items.otb
+[Warning] Item 40015 in item.xml not found in items.otb
+[Warning] Item 40019 in item.xml not found in items.otb
+[Warning] Item 40021 in item.xml not found in items.otb
+[Warning] Item 40026 in item.xml not found in items.otb
+[Warning] Item 40027 in item.xml not found in items.otb
+[Warning] Item 40028 in item.xml not found in items.otb
+[Warning] Item 40035 in item.xml not found in items.otb
+[Warning] Item 40043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+Can't load npc words file.
+[Warning] Item 40001 in item.xml not found in items.otb
+[Warning] Item 40002 in item.xml not found in items.otb
+[Warning] Item 40003 in item.xml not found in items.otb
+[Warning] Item 40004 in item.xml not found in items.otb
+[Warning] Item 40005 in item.xml not found in items.otb
+[Warning] Item 40006 in item.xml not found in items.otb
+[Warning] Item 40007 in item.xml not found in items.otb
+[Warning] Item 40010 in item.xml not found in items.otb
+[Warning] Item 40011 in item.xml not found in items.otb
+[Warning] Item 40013 in item.xml not found in items.otb
+[Warning] Item 40014 in item.xml not found in items.otb
+[Warning] Item 40015 in item.xml not found in items.otb
+[Warning] Item 40019 in item.xml not found in items.otb
+[Warning] Item 40021 in item.xml not found in items.otb
+[Warning] Item 40026 in item.xml not found in items.otb
+[Warning] Item 40027 in item.xml not found in items.otb
+[Warning] Item 40028 in item.xml not found in items.otb
+[Warning] Item 40035 in item.xml not found in items.otb
+[Warning] Item 40043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Warning] Item 40001 in item.xml not found in items.otb
+[Warning] Item 40002 in item.xml not found in items.otb
+[Warning] Item 40003 in item.xml not found in items.otb
+[Warning] Item 40004 in item.xml not found in items.otb
+[Warning] Item 40005 in item.xml not found in items.otb
+[Warning] Item 40006 in item.xml not found in items.otb
+[Warning] Item 40007 in item.xml not found in items.otb
+[Warning] Item 40010 in item.xml not found in items.otb
+[Warning] Item 40011 in item.xml not found in items.otb
+[Warning] Item 40013 in item.xml not found in items.otb
+[Warning] Item 40014 in item.xml not found in items.otb
+[Warning] Item 40015 in item.xml not found in items.otb
+[Warning] Item 40019 in item.xml not found in items.otb
+[Warning] Item 40021 in item.xml not found in items.otb
+[Warning] Item 40026 in item.xml not found in items.otb
+[Warning] Item 40027 in item.xml not found in items.otb
+[Warning] Item 40028 in item.xml not found in items.otb
+[Warning] Item 40035 in item.xml not found in items.otb
+[Warning] Item 40043 in item.xml not found in items.otb
+Open Tibia items successfully loaded.
+[Error] Unable to load tibia client. Details:    em SharpTibiaProxy.Util.Memory.WriteBytes(IntPtr handle, Int64 address, Byte[] bytes, UInt32 length) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\Memory.cs:linha 168
+   em SharpTibiaProxy.Util.Memory.WriteString(IntPtr handle, Int64 address, String str) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\Memory.cs:linha 289
+   em SharpTibiaProxy.Domain.Client.set_LoginServers(LoginServer[] value) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Domain\Client.cs:linha 231
+   em SharpTibiaProxy.Util.ClientChooserBase.ChooseClient(ClientChooserOptions options, Object selectedItem, LoginServer loginServer) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\ClientChooserBase.cs:linha 97
+   em SharpTibiaProxy.Util.ClientChooser.ChooseClient() na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\ClientChooser.cs:linha 139
+   em SharpTibiaProxy.Util.ClientChooser.uxChoose_Click(Object sender, EventArgs e) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\ClientChooser.cs:linha 107
+   em System.Windows.Forms.Control.OnClick(EventArgs e)
+   em System.Windows.Forms.Button.OnClick(EventArgs e)
+   em System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   em System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   em System.Windows.Forms.Control.WndProc(Message& m)
+   em System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   em System.Windows.Forms.Button.WndProc(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   em System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   em System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   em System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   em System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   em System.Windows.Forms.Application.RunDialog(Form form)
+   em System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   em System.Windows.Forms.Form.ShowDialog()
+   em SharpTibiaProxy.Util.ClientChooser.ShowBox(ClientChooserOptions options) na C:\Users\John e Milena\Desktop\MapTracker\SharpTibiaProxy\Util\ClientChooser.cs:linha 100
+   em SharpMapTracker.MainForm.loadClientToolStripMenuItem_Click(Object sender, EventArgs e) na C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\MainForm.cs:linha 229
