@@ -1,8 +1,0 @@
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.dll
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\bin\Debug\OpenTibiaCommons.pdb
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.dll
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\bin\Debug\BouncyCastle.Crypto.dll
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\bin\Debug\SharpTibiaProxy.pdb
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.csprojResolveAssemblyReference.cache
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.dll
-C:\Users\Cjaker\Desktop\MapTracker\OpenTibiaCommons\obj\Debug\OpenTibiaCommons.pdb

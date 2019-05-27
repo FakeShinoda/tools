@@ -1,4 +1,0 @@
-C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\bin\Release\tibiacast-downloader.exe
-C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\bin\Release\tibiacast-downloader.pdb
-C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.exe
-C:\Users\Cjaker\Desktop\MapTracker\TibiaCastDownloader\obj\x86\Release\tibiacast-downloader.pdb
