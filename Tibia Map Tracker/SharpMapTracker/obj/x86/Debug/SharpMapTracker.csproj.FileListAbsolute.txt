@@ -1,0 +1,69 @@
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\guilh\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojAssemblyReference.cache
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\Tibia Tools\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.CopyComplete
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.cache
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.CopyComplete
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\Thiago\Desktop\MapTracker2\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.exe
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.pdb
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.exe
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpMapTracker.pdb
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.dll
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.dll
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csprojResolveAssemblyReference.cache
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MainForm.resources
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.MiniMap.resources
+C:\Users\John e Milena\Desktop\MapTracker\SharpMapTracker\obj\x86\Debug\SharpMapTracker.csproj.GenerateResource.Cache

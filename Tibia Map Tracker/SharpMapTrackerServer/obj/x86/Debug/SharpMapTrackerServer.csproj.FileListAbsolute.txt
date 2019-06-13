@@ -1,0 +1,10 @@
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.exe
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\SharpMapTrackerServer.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\OpenTibiaCommons.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\bin\Debug\SharpTibiaProxy.pdb
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.csprojResolveAssemblyReference.cache
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.exe
+C:\Users\Cjaker\Desktop\MapTracker\SharpMapTrackerServer\obj\x86\Debug\SharpMapTrackerServer.pdb
