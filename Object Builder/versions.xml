@@ -112,4 +112,5 @@
 	<version value="1103" string="11.03" dat="48C4" spr="597717E5" otb="0"/>
 	<version value="1103" string="11.03" dat="A375" spr="58000010" otb="0"/>
 	<version value="1210" string="12.10" dat="A398" spr="58000030" otb="0"/>
+	<version value="1220" string="12.10" dat="A420" spr="58000030" otb="0"/>
 </versions>
