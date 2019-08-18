@@ -3,128 +3,11 @@
         {
             "colordark": "#64162b",
             "colorlight": "#7a1b34",
-            "description": "An ice bridge now connects Svargrond to a frosty island, where monsters and a strange frozen creature have been sighted.",
-            "enddate": 1556697600,
-            "isseasonal": true,
-            "name": "Chyllfroest",
-            "startdate": 1554105600
-        },
-        {
-            "colordark": "#64162b",
-            "colorlight": "#7a1b34",
-            "description": "Enjoy a whole month of pranks! Hoaxette is offering special spellwands, pillows and presents that all have some funny effects. One final advice: Always treat jesters well, you never know if they seek revenge one day.",
-            "enddate": 1556697600,
-            "isseasonal": true,
-            "name": "Prank Month",
-            "startdate": 1554105600
-        },
-        {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
-            "enddate": 1555315200,
-            "isseasonal": false,
-            "name": "Full Moon",
-            "startdate": 1555056000
-        },
-        {
-            "colordark": "#64162b",
-            "colorlight": "#7a1b34",
-            "description": "There are unusual activities in almost all known dragon lairs. Lots of dragon eggs have been sighted in their caves.",
-            "enddate": 1556006400,
-            "isseasonal": false,
-            "name": "Spring into Life",
-            "startdate": 1555401600
-        },
-        {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "Participate in a fun challenge of wits and agility. The trials of Kurik to test the mortals and fool around with them will lead you to a test of your reactions and luck.",
-            "enddate": 1556179200,
-            "isseasonal": false,
-            "name": "Last Creep Standing",
-            "startdate": 1555747200
-        },
-        {
-            "colordark": "#1d5263",
-            "colorlight": "#24657b",
-            "description": "XP/Skill Event! Killing monsters yields more experience and skill points.",
-            "enddate": 1557129600,
-            "isseasonal": false,
-            "name": "XP/Skill Event",
-            "startdate": 1556870400
-        },
-        {
-            "colordark": "#64162b",
-            "colorlight": "#7a1b34",
-            "description": "When does a mother's burden become a hero's burden? When a demon mother decides to take a few days off. Guard her horrible children to avert her wrath. But be warned: Demon babies might prove too hot to handle.",
-            "enddate": 1557820800,
-            "isseasonal": false,
-            "name": "Demon's Lullaby",
-            "startdate": 1557216000
-        },
-        {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
-            "enddate": 1557907200,
-            "isseasonal": false,
-            "name": "Full Moon",
-            "startdate": 1557648000
-        },
-        {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "Participate in a fun challenge of wits and agility. The trials of Kurik to test the mortals and fool around with them will lead you to a test of your reactions and luck.",
-            "enddate": 1558771200,
-            "isseasonal": false,
-            "name": "Last Creep Standing",
-            "startdate": 1558339200
-        },
-        {
-            "colordark": "#436343",
-            "colorlight": "#527b53",
-            "description": "Get a ticket and ready your Tournament character for the latest Tournament event!",
-            "enddate": 1558944000,
-            "isseasonal": false,
-            "name": "Tournament Sign-Up",
-            "startdate": 1558425600
-        },
-        {
-            "colordark": "#4f633c",
-            "colorlight": "#617a49",
-            "description": "Win fame and fortune by competing with your fellow players on special Tournament worlds!",
-            "enddate": 1559548800,
-            "isseasonal": false,
-            "name": "Tournament",
-            "startdate": 1558944000
-        },
-        {
-            "colordark": "#64162b",
-            "colorlight": "#7a1b34",
             "description": "Remember that June is the month of flowers. If you have collected any seeds, exchange them for a flower pot with the dryad Rosemarie. But beware, wild dryads are roaming the lands again.",
             "enddate": 1561968000,
             "isseasonal": true,
             "name": "Flower Month",
             "startdate": 1559376000
-        },
-        {
-            "colordark": "#1d5263",
-            "colorlight": "#24657b",
-            "description": "Spawn Rate Event! Monsters respawn at a faster rate.",
-            "enddate": 1560153600,
-            "isseasonal": false,
-            "name": "Rapid Respawn",
-            "startdate": 1559894400
-        },
-        {
-            "colordark": "#436343",
-            "colorlight": "#527b53",
-            "description": "Get a ticket and ready your Tournament character for the latest Tournament event!",
-            "enddate": 1560758400,
-            "isseasonal": false,
-            "name": "Tournament Sign-Up",
-            "startdate": 1560326400
         },
         {
             "colordark": "#735D10",
@@ -134,15 +17,6 @@
             "isseasonal": false,
             "name": "Full Moon",
             "startdate": 1560326400
-        },
-        {
-            "colordark": "#4f633c",
-            "colorlight": "#617a49",
-            "description": "Win fame and fortune by competing with your fellow players on special Tournament worlds!",
-            "enddate": 1561363200,
-            "isseasonal": false,
-            "name": "Tournament",
-            "startdate": 1560758400
         },
         {
             "colordark": "#735D10",
@@ -199,6 +73,15 @@
             "startdate": 1564646400
         },
         {
+            "colordark": "#1d5263",
+            "colorlight": "#24657b",
+            "description": "Spawn Rate Event! Monsters respawn at a faster rate.",
+            "enddate": 1564992000,
+            "isseasonal": false,
+            "name": "Rapid Respawn",
+            "startdate": 1564732800
+        },
+        {
             "colordark": "#735D10",
             "colorlight": "#8B6D05",
             "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
@@ -224,6 +107,15 @@
             "isseasonal": false,
             "name": "Rise of Devovorga",
             "startdate": 1567324800
+        },
+        {
+            "colordark": "#1d5263",
+            "colorlight": "#24657b",
+            "description": "XP/Skill Event! Killing monsters yields more experience and skill points.",
+            "enddate": 1568016000,
+            "isseasonal": false,
+            "name": "XP/Skill Event",
+            "startdate": 1567756800
         },
         {
             "colordark": "#735D10",
@@ -307,21 +199,21 @@
             "startdate": 1574240400
         },
         {
-            "colordark": "#735D10",
-            "colorlight": "#8B6D05",
-            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
-            "enddate": 1576400400,
-            "isseasonal": false,
-            "name": "Full Moon",
-            "startdate": 1576141200
-        },
-        {
             "colordark": "#235c00",
             "colorlight": "#2d7400",
             "description": "It's the most wonderful time of the year - but beware of the Grynch Clan Goblins! Have you been good all year? Then Santa might have a present for you.",
             "enddate": 1577782800,
             "isseasonal": false,
             "name": "Christmas",
+            "startdate": 1576141200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
+            "enddate": 1576400400,
+            "isseasonal": false,
+            "name": "Full Moon",
             "startdate": 1576141200
         },
         {
@@ -575,7 +467,70 @@
             "isseasonal": false,
             "name": "Full Moon",
             "startdate": 1594540800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Participate in a fun challenge of wits and agility. The trials of Kurik to test the mortals and fool around with them will lead you to a test of your reactions and luck.",
+            "enddate": 1595664000,
+            "isseasonal": false,
+            "name": "Last Creep Standing",
+            "startdate": 1595232000
+        },
+        {
+            "colordark": "#64162b",
+            "colorlight": "#7a1b34",
+            "description": "If you are a real gourmet, ask Jean Pierre in the Darama desert for some delicious and exceptional recipes. August is undoubtedly the month of hot cuisine! Bon appetit!",
+            "enddate": 1598947200,
+            "isseasonal": true,
+            "name": "Hot Cuisine Month",
+            "startdate": 1596268800
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
+            "enddate": 1597478400,
+            "isseasonal": false,
+            "name": "Full Moon",
+            "startdate": 1597219200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "Participate in a fun challenge of wits and agility. The trials of Kurik to test the mortals and fool around with them will lead you to a test of your reactions and luck.",
+            "enddate": 1598342400,
+            "isseasonal": false,
+            "name": "Last Creep Standing",
+            "startdate": 1597910400
+        },
+        {
+            "colordark": "#64162b",
+            "colorlight": "#7a1b34",
+            "description": "A powerful ancient weapon meant to be sleeping forever has awoken deep under Vengoth. With thirst for revenge and burning rage she will destroy the world - unless you fight her back.",
+            "enddate": 1599465600,
+            "isseasonal": false,
+            "name": "Rise of Devovorga",
+            "startdate": 1598947200
+        },
+        {
+            "colordark": "#735D10",
+            "colorlight": "#8B6D05",
+            "description": "The moon is full! Beware, lycanthropic creatures like werewolves, werefoxes or werebears roam the lands now. And they are more aggressive and numerous than usual.",
+            "enddate": 1600156800,
+            "isseasonal": false,
+            "name": "Full Moon",
+            "startdate": 1599897600
+        },
+        {
+            "colordark": "#7A4C1F",
+            "colorlight": "#935416",
+            "description": "Mysterious letters with coloured powders can now be found everywhere. Choose your wizard and make your friends join your cause - what is your true colour?",
+            "enddate": 1600848000,
+            "isseasonal": false,
+            "name": "Colours of Magic",
+            "startdate": 1600156800
         }
     ],
-    "lastupdatetimestamp": 1560869351
+    "lastupdatetimestamp": 1565953621
 }
