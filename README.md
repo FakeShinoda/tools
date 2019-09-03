@@ -4,5 +4,4 @@
 * This project is supported by: [Forum OTServ Brasil](https://forums.otserv.com.br/)
 
 #### Contact:
-[Whatsapp Invite](https://chat.whatsapp.com/FWca9zJxOnXHlcxyjfwXaQ)<br>
 [Discord Channel](https://discord.gg/3NxYnyV)<br>
